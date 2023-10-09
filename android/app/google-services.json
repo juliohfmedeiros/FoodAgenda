@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717579597445",
+    "firebase_url": "https://foodagenda-201d7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "foodagenda-201d7",
+    "storage_bucket": "foodagenda-201d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717579597445:android:48b87f2eb9b624e1945bec",
+        "android_client_info": {
+          "package_name": "com.foodagenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717579597445-tnf2b8863dtlmf8u9c2ji1n1gspveobk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKfGoC2v7t89TAC6aby59iTL58LMcL_pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717579597445-9uhpimp04c26r4dt66nenj0cc6d5qi2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
